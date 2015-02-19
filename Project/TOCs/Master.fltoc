@@ -31,8 +31,7 @@
       Title="Positioned Images"
       Link="/Content/D_Images/Positioned Images.htm">
       <TocEntry
-        Title="Image Positioned Left"
-        Link="/Content/D_Images/ImagePositionedLeft.htm" />
+        Title="Image Positioned Left" />
       <TocEntry
         Title="Image Positioned Right"
         Link="/Content/D_Images/ImagePositionedRight.htm" />
