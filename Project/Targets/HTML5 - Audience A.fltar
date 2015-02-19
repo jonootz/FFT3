@@ -13,7 +13,7 @@
   Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
   ConditionTagExpression="include[&quot;General.Audience A&quot;] exclude[&quot;General.Audience B&quot;] "
   DefaultUrl="/Content/Home.htm"
-  GetLatestBeforeCompile="false"
+  GetLatestBeforeCompile="true"
   DisableAutoSync="true">
   <PrintedOutput
     CollapseMargins="true"
