@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="true"
+  ImportResources="true"
+  AutoSync="true"
+  SourceFolders="file:///C:/Users/Harkins/Desktop/New folder (2)/000simpleGitBash/Content/D_Images"
+  ImportResourcesLocation="RelativeToDocument"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2015-02-18T19:03:15.5358843-08:00"
+  ImportTopicsLocation="Content/"
+  ResourceFolder="file:///C:/GIT/3rd/test20/Content/">
+  <Files>
+    <Url
+      Source="../../../../../Users/Harkins/Desktop/New folder (2)/000simpleGitBash/Content/D_Images"
+      AbsoluteSource="file:///C:/Users/Harkins/Desktop/New folder (2)/000simpleGitBash/Content/D_Images" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/D_Images/ImagePositionedLeft1.htm"
+      TimeStamp="2/18/2015 7:03:12 PM" />
+    <Url
+      Source="../../Content/D_Images/ImagePositionedRight1.htm"
+      TimeStamp="2/18/2015 7:03:12 PM" />
+    <Url
+      Source="../../Content/D_Images/Images1.htm"
+      TimeStamp="2/18/2015 7:03:12 PM" />
+    <Url
+      Source="../../Content/D_Images/ImageWithinList1.htm"
+      TimeStamp="2/18/2015 7:03:12 PM" />
+    <Url
+      Source="../../Content/D_Images/ThumbnailImage1.htm"
+      TimeStamp="2/18/2015 7:03:13 PM" />
+    <Url
+      Source="../TOCs/NewImport.fltoc"
+      TimeStamp="2/18/2015 7:03:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Image1.png"
+      TimeStamp="1/11/2015 5:57:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/SaveButton2.png"
+      TimeStamp="1/11/2015 5:57:56 PM" />
+  </GeneratedFiles>
+</HtmlImport>
