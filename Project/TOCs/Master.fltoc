@@ -22,23 +22,18 @@
       Link="/Content/B_Links and Lists/Lists.htm" />
   </TocEntry>
   <TocEntry
-    Title="Images"
-    Link="/Content/D_Images/Images.htm">
+    Title="Images">
     <TocEntry
-      Title="Thumbnail Image"
-      Link="/Content/D_Images/ThumbnailImage.htm" />
+      Title="Thumbnail Image" />
     <TocEntry
-      Title="Positioned Images"
-      Link="/Content/D_Images/Positioned Images.htm">
+      Title="Positioned Images">
       <TocEntry
         Title="Image Positioned Left" />
       <TocEntry
-        Title="Image Positioned Right"
-        Link="/Content/D_Images/ImagePositionedRight.htm" />
+        Title="Image Positioned Right" />
     </TocEntry>
     <TocEntry
-      Title="Image Within List"
-      Link="/Content/D_Images/ImageWithinList.htm" />
+      Title="Image Within List" />
   </TocEntry>
   <TocEntry
     Title="More Features"
