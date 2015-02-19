@@ -36,8 +36,7 @@
       Title="Image Within List" />
   </TocEntry>
   <TocEntry
-    Title="More Features"
-    Link="/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm">
+    Title="More Features">
     <TocEntry
       Title="Conditions"
       Link="/Content/C_Conditions Notes Tables/Conditions.htm" />
